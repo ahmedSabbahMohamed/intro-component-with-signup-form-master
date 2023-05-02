@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/intro-component-with-signup-form-master/static/css/main.2a396959.css",
+    "main.js": "/intro-component-with-signup-form-master/static/js/main.91bb75f6.js",
+    "static/media/bg-intro-desktop.png": "/intro-component-with-signup-form-master/static/media/bg-intro-desktop.059183eea52640c5068d.png",
+    "index.html": "/intro-component-with-signup-form-master/index.html",
+    "main.2a396959.css.map": "/intro-component-with-signup-form-master/static/css/main.2a396959.css.map",
+    "main.91bb75f6.js.map": "/intro-component-with-signup-form-master/static/js/main.91bb75f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a396959.css",
+    "static/js/main.91bb75f6.js"
+  ]
+}
